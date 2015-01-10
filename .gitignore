@@ -1,5 +1,5 @@
 sftp-config.json
 configuration.php
 *.zip
-/attachments
+/attachments 
 /downloads
